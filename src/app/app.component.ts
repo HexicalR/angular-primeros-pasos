@@ -6,5 +6,18 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'bases';
+  public title = 'Mi primera chamba (ya está comentada).';
+  // public Counter:number = 20;
+
+  // increaseBy(value:number):void{
+  //   this.Counter +=1;
+  //   }
+
+  // decreaseBy(value:number):void{
+  //  this.Counter -=1;
+  //   }
+
+  //   reset():void{
+  //     this.Counter =20;
+  //      }
 }
